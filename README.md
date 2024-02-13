@@ -8,7 +8,7 @@
 </p>
 
 
-<img src="https://i.pinimg.com/564x/4a/43/8b/4a438b730ffa36c9285b75b6a58c9a5f.jpg" align="right" width="25%">
+![AvatarMaker](https://github.com/Layan-khalil/Layan-Khalil/assets/152307627/fb73cf67-c026-46bc-85ff-a6cc0576281e)
 <!--<p>I'm a Frontend Developer 
   I'm passionate about designing web pages with pleasure and love then upload them on my github account I will be happy if you take a look on my repositories.<br> 
   Follow me for more coding magics and source codes .</p>
