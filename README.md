@@ -9,7 +9,7 @@
 
 
 <img src="https://i.pinimg.com/564x/4a/43/8b/4a438b730ffa36c9285b75b6a58c9a5f.jpg" align="right" width="25%">
-<p>I'm a Frontend Developer 
+<!--<p>I'm a Frontend Developer 
   I'm passionate about designing web pages with pleasure and love then upload them on my github account I will be happy if you take a look on my repositories.<br> 
   Follow me for more coding magics and source codes .</p>
 <br>
@@ -17,9 +17,38 @@
 📫 How to reach me:Follow me on my social accounts .<br><br><br>
 If you are ready let's collaborate and work together don't hestitate to text me I'll be happy for that 😉.<br>
 <br><br>
-
 My skills :<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,cpp&perline=3)](https://skillicons.dev)
+-->
+
+👋 Hey there! I'm Layan , a passionate frontend developer with a love for crafting delightful and user-friendly web experiences. My journey in the world of coding began with a fascination for transforming ideas into interactive and visually appealing websites.
+
+🚀 *Skills & Expertise:*
+- HTML5, CSS3
+- JavaScript (ES6+)
+- Responsive Web Design
+- Pythn.
+- Java.
+- Php.
+- Mysql.
+  <br><br>
+  skills:
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,cpp&perline=3)](https://skillicons.dev)<br><br>
+
+💻 *Projects:*
+- Frontend Mentor (I worked on more then 15 projects)
+- Free Code Camp (I gained many certification)
+  
+
+🌐 *Connect with Me:*
+- [Up work](https://www.upwork.com/freelancers/~011eb24bcb789555cb)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [Instagram](https://www.instagram.com/codingwith.layan?igsh=MTgwMTM1aHRianJpag==)
+
+🤝 I'm always open to collaborations, discussions, and feedback. Let's build something amazing together!
+
+📬 Feel free to reach out a layan.michael1@gmail.com
+
+Happy coding! 🚀
 
 <!--
 - 🌱 I’m currently learning ...
