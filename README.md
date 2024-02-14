@@ -8,8 +8,8 @@
 </p>
 
 
-![AvatarMaker](https://github.com/Layan-khalil/Layan-Khalil/assets/152307627/fb73cf67-c026-46bc-85ff-a6cc0576281e)
-<!--<p>I'm a Frontend Developer 
+<!--![AvatarMaker](https://github.com/Layan-khalil/Layan-Khalil/assets/152307627/fb73cf67-c026-46bc-85ff-a6cc0576281e)
+<p>I'm a Frontend Developer 
   I'm passionate about designing web pages with pleasure and love then upload them on my github account I will be happy if you take a look on my repositories.<br> 
   Follow me for more coding magics and source codes .</p>
 <br>
@@ -32,11 +32,12 @@ My skills :<br><br>
 - Mysql.
   <br><br>
   skills:
-  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,cpp&perline=3)](https://skillicons.dev)<br><br>
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,cpp&perline=5)](https://skillicons.dev)<br><br>
 
 💻 *Projects:*
 - Frontend Mentor (I worked on more then 15 projects)
 - Free Code Camp (I gained many certification)
+- Github projects(I uploaded more than  15 effecient projects such that course simple landing page and coffeshop responsive website and so many responsive professional projects I'll be happy if tou take a look of them )
   
 
 🌐 *Connect with Me:*
