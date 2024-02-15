@@ -35,8 +35,8 @@ My skills :<br><br>
   <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,cpp&perline=5)](https://skillicons.dev)<br><br>
 
 💻 *Projects:*
-- Frontend Mentor (I worked on more then 15 projects)
-- Free Code Camp (I gained many certification)
+- Frontend Mentor (I worked on more than 15 projects)
+- Free Code Camp (I gained many certifications)
 - Github projects(I uploaded more than  15 effecient projects such that course simple landing page and coffeshop responsive website and so many responsive professional projects I'll be happy if tou take a look of them )
   
 
