@@ -37,7 +37,7 @@ My skills :<br><br>
 - Computer Network.
 - Speech communication & Technical writing.
 - Database.
-- 
+  
   <br><br>
   skills:
   <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,react,instagram,nodejs,gmail,mysql,cpp&perline=5)](https://skillicons.dev)<br><br>
