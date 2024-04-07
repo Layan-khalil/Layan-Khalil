@@ -46,7 +46,7 @@ My skills :<br><br>
 💻 *Projects:*
 - Frontend Mentor (I worked on more than 15 projects)
 - Free Code Camp (I gained many certifications)
-- Github projects(I uploaded more than  15 effecient projects such that course simple landing page and coffeshop responsive website and so many responsive professional projects I'll be happy if tou take a look of them )
+- Github projects(I uploaded more than  15 effecient projects such that course simple landing page and coffeshop responsive website and so many responsive professional projects I'll be happy if you take a look of them )
   
 
 🌐 *Connect with Me:*
