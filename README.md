@@ -39,7 +39,7 @@ My skills :<br><br>
   
   <br><br>
   skills:
-  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,react,instagram,nodejs,gmail,mysql,mongodb,,cpp&perline=5)](https://skillicons.dev)<br><br>
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,react,instagram,nodejs,gmail,mysql,mongodb,cpp&perline=4)](https://skillicons.dev)<br><br>
 
 💻 *Projects:*
 - Frontend Mentor (I worked on more than 15 projects)
