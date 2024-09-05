@@ -29,17 +29,20 @@ My skills :<br><br>
 - Java.
 - Php.
 - Mysql.
+- NoSql
 - Data structures & Algorithms.
 - React.Js
 - Information security.
 - Digital Logic Design
 - Computer Network.
 - Speech communication & Technical writing.
-- Database.
+- MongoDB
+- Express
+- Nodejs
   
   <br><br>
   skills:
-  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,figma,react,instagram,nodejs,gmail,mysql,mongodb,cpp&perline=4)](https://skillicons.dev)<br><br>
+  <br><br>[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,python,vscode,discord,react,instagram,nodejs,mysql,mongodb,express,cpp&perline=4)](https://skillicons.dev)<br><br>
 
 💻 *Projects:*
 - Frontend Mentor (I worked on more than 15 projects)
