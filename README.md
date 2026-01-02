@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi I'm Layan 👋 </h1>
+<h1 align="center">Hi I'm Layan Khalil👋 </h1>
+<p align="center">AI Product Builder & Software Engineer</p>
 <p align="center">
   <a href="https://www.frontendmentor.io/profile/Layan-khalil"><img src="https://img.shields.io/badge/Frontend Mentor-%0A66C2style=flat&logo=frontendmentor&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/"><img src="https://img.shields.io/badge/Linkedin-%230177b5??style=flat&logo=linkedin&logoColor=Blue"></a>
@@ -18,8 +19,48 @@ If you are ready let's collaborate and work together don't hestitate to text me 
 <br><br>
 My skills :<br><br>
 -->
+👩‍💻 About Me
 
-👋 Hey there! I'm Layan , a passionate frontend developer with a love for crafting delightful and user-friendly web experiences. My journey in the world of coding began with a fascination for transforming ideas into interactive and visually appealing websites.
+I’m Layan — a passionate software engineer and full-stack developer who loves turning ideas into real digital products.
+
+I enjoy working across the stack — from crafting elegant user interfaces to building scalable backend systems — and recently I’ve been exploring AI-powered applications, product design, and rapid prototyping.
+
+I believe technology becomes meaningful when it solves real problems and creates value.
+
+⸻
+
+🚀 Areas of Focus
+
+✔ Full-Stack Web Development
+✔ Software Engineering & System Design
+✔ AI-Driven Apps & Product Experiments
+✔ UI/UX & User-Centered Experiences
+✔ Databases & Cloud-Backed Applications
+
+⸻
+
+🧠 Technical Skills
+
+Programming & Web
+	•	HTML, CSS, JavaScript (ES6+)
+	•	React.js
+	•	Node.js, Express
+	•	Python
+	•	PHP
+	•	Java
+
+Databases
+	•	MySQL
+	•	MongoDB
+	•	NoSQL
+
+Computer Science & Engineering
+	•	Data Structures & Algorithms
+	•	Computer Networks
+	•	Information Security
+	•	Digital Logic Design
+	•	Technical Writing & Communication
+<!--👋 Hey there! I'm Layan , a passionate frontend developer with a love for crafting delightful and user-friendly web experiences. My journey in the world of coding began with a fascination for transforming ideas into interactive and visually appealing websites.
 
 🚀 *Skills & Expertise:*
 - HTML5, CSS3
@@ -70,3 +111,35 @@ Happy coding! 🚀
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⸻
+
+💻 Projects & Experience
+	•	✅ Built multiple real-world web apps & responsive websites
+	•	🎯 Developed +15 projects through Frontend Mentor
+	•	🧩 Completed certifications & learning challenges via FreeCodeCamp
+	•	🚀 Currently exploring:
+	•	AI-powered tools & smart dashboards
+	•	SaaS-style MVP experiments
+	•	User behavior analytics & product validation
+
+I enjoy building, testing ideas, improving them — and turning concepts into working software.
+
+⸻
+
+🌍 Let’s Connect
+	•	🔗 LinkedIn —
+https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/
+	•	💼 Upwork —
+https://www.upwork.com/freelancers/~011eb24bcb789555cb
+	•	✉️ Email —
+layan.michael1@gmail.com
+
+⸻
+
+🤝 Open to
+
+✨ Collaborative projects
+✨ Freelance opportunities
+✨ Startup & product-building initiatives
+
+If you’re working on something meaningful — I’d love to connect
