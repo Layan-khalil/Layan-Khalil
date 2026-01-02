@@ -31,17 +31,17 @@ I believe technology becomes meaningful when it solves real problems and creates
 
 <h3>🚀 Areas of Focus</h3>
 
-✔ Full-Stack Web Development
-✔ Software Engineering & System Design
-✔ AI-Driven Apps & Product Experiments
-✔ UI/UX & User-Centered Experiences
+✔ Full-Stack Web Development<br>
+✔ Software Engineering & System Design<br>
+✔ AI-Driven Apps & Product Experiments<br>
+✔ UI/UX & User-Centered Experiences<br>
 ✔ Databases & Cloud-Backed Applications
 
 ⸻
 
 <h3>🧠 Technical Skills</h3>
 
-Programming & Web
+Programming & Web : 
 	•	HTML, CSS, JavaScript (ES6+)
 	•	React.js
 	•	Node.js, Express
@@ -49,12 +49,12 @@ Programming & Web
 	•	PHP
 	•	Java
 
-Databases
+Databases : 
 	•	MySQL
 	•	MongoDB
 	•	NoSQL
 
-Computer Science & Engineering
+Computer Science & Engineering : 
 	•	Data Structures & Algorithms
 	•	Computer Networks
 	•	Information Security
@@ -113,7 +113,7 @@ Happy coding! 🚀
 -->
 ⸻
 
-💻 <h3>Projects & Experience </h3><br>
+<h3>💻 Projects & Experience </h3><br>
 	•	✅ Built multiple real-world web apps & responsive websites
 	•	🎯 Developed +15 projects through Frontend Mentor
 	•	🧩 Completed certifications & learning challenges via FreeCodeCamp
@@ -122,7 +122,7 @@ Happy coding! 🚀
 	•	SaaS-style MVP experiments
 	•	User behavior analytics & product validation
 
-<br>I enjoy building, testing ideas, improving them — and turning concepts into working software.
+<h3><br>I enjoy building, testing ideas, improving them — and turning concepts into working software.</h3>
 
 ⸻
 
