@@ -19,7 +19,7 @@ If you are ready let's collaborate and work together don't hestitate to text me 
 <br><br>
 My skills :<br><br>
 -->
-👩‍💻 About Me
+<h2>👩‍💻 About Me</h2>
 
 I’m Layan — a passionate software engineer and full-stack developer who loves turning ideas into real digital products.
 
@@ -29,7 +29,7 @@ I believe technology becomes meaningful when it solves real problems and creates
 
 ⸻
 
-🚀 Areas of Focus
+<h3>🚀 Areas of Focus</h3>
 
 ✔ Full-Stack Web Development
 ✔ Software Engineering & System Design
@@ -39,7 +39,7 @@ I believe technology becomes meaningful when it solves real problems and creates
 
 ⸻
 
-🧠 Technical Skills
+<h3>🧠 Technical Skills</h3>
 
 Programming & Web
 	•	HTML, CSS, JavaScript (ES6+)
@@ -113,7 +113,7 @@ Happy coding! 🚀
 -->
 ⸻
 
-💻 Projects & Experience
+💻 <h3>Projects & Experience </h3><br>
 	•	✅ Built multiple real-world web apps & responsive websites
 	•	🎯 Developed +15 projects through Frontend Mentor
 	•	🧩 Completed certifications & learning challenges via FreeCodeCamp
@@ -122,11 +122,11 @@ Happy coding! 🚀
 	•	SaaS-style MVP experiments
 	•	User behavior analytics & product validation
 
-I enjoy building, testing ideas, improving them — and turning concepts into working software.
+<br>I enjoy building, testing ideas, improving them — and turning concepts into working software.
 
 ⸻
 
-🌍 Let’s Connect
+🌍 Let’s Connect <br>
 	•	🔗 LinkedIn —
 https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/ <br>
 	•	💼 Upwork —
