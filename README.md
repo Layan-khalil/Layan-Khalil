@@ -114,12 +114,12 @@ Happy coding! 🚀
 ⸻
 
 <h3>💻 Projects & Experience </h3><br>
-	•	✅ Built multiple real-world web apps & responsive websites
-	•	🎯 Developed +15 projects through Frontend Mentor
-	•	🧩 Completed certifications & learning challenges via FreeCodeCamp
-	•	🚀 Currently exploring:
-	•	AI-powered tools & smart dashboards
-	•	SaaS-style MVP experiments
+	•	✅ Built multiple real-world web apps & responsive websites <br>
+	•	🎯 Developed +15 projects through Frontend Mentor <br>
+	•	🧩 Completed certifications & learning challenges via FreeCodeCamp<br>
+	•	🚀 Currently exploring: <br>
+	•	AI-powered tools & smart dashboards<br>
+	•	SaaS-style MVP experiments<br>
 	•	User behavior analytics & product validation
 
 <h3><br>I enjoy building, testing ideas, improving them — and turning concepts into working software.</h3>
