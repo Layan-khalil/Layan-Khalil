@@ -129,8 +129,10 @@ Happy coding! 🚀
 🌍 Let’s Connect <br>
 	•	🔗 LinkedIn —
 https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/ <br>
+<!--
 	•	💼 Upwork —
 https://www.upwork.com/freelancers/~011eb24bcb789555cb <br>
+-->
 	•	✉️ Email —
 layan.michael1@gmail.com
 
