@@ -2,9 +2,9 @@
 <h1 align="center">Hi I'm Layan Khalil👋 </h1>
 <p align="center">AI Product Builder & Software Engineer</p>
 <p align="center">
-  <a href="https://www.frontendmentor.io/profile/Layan-khalil"><img src="https://img.shields.io/badge/Frontend Mentor-%0A66C2style=flat&logo=frontendmentor&logoColor=white"></a>
+  <!--<a href="https://www.frontendmentor.io/profile/Layan-khalil"><img src="https://img.shields.io/badge/Frontend Mentor-%0A66C2style=flat&logo=frontendmentor&logoColor=white"></a>-->
     <a href="https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/"><img src="https://img.shields.io/badge/Linkedin-%230177b5??style=flat&logo=linkedin&logoColor=Blue"></a>
-   <a href="https://t.me/codingwithalayan"><img src="https://img.shields.io/badge/Telegram-%231fa1f1?style=flat&logo=telegram&logoColor=white"></a>
+   <!--<a href="https://t.me/codingwithalayan"><img src="https://img.shields.io/badge/Telegram-%231fa1f1?style=flat&logo=telegram&logoColor=white"></a>-->
 </p>
 
 
@@ -19,7 +19,7 @@ If you are ready let's collaborate and work together don't hestitate to text me 
 <br><br>
 My skills :<br><br>
 -->
-<h2>👩‍💻 About Me</h2>
+<!--<h2>👩‍💻 About Me</h2>
 
 I’m Layan — a passionate software engineer and full-stack developer who loves turning ideas into real digital products.
 
@@ -112,7 +112,7 @@ Happy coding! 🚀
 - ⚡ Fun fact: ...
 -->
 ⸻
-
+<!--
 <h3>💻 Projects & Experience </h3><br>
 	•	✅ Built multiple real-world web apps & responsive websites <br>
 	•	🎯 Developed +15 projects through Frontend Mentor <br>
@@ -134,7 +134,8 @@ https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/ <br>
 https://www.upwork.com/freelancers/~011eb24bcb789555cb <br>
 -->
 	•	✉️ Email —
-layan.michael1@gmail.com
+
+<!--layan.michael1@gmail.com
 
 ⸻
 
@@ -145,3 +146,137 @@ layan.michael1@gmail.com
 ✨ Startup & product-building initiatives
 
 If you’re working on something meaningful — I’d love to connect
+-->
+<h2>👩‍💻 About Me</h2>h2>
+
+I'm a software engineer focused on building AI-powered systems and intelligent software products.
+
+My work sits at the intersection of AI engineering, software architecture, and full-stack development — from designing agentic workflows and multi-agent pipelines to building the backend, APIs, data layer, and user-facing product around them.
+
+I enjoy turning ambiguous problems into working systems, experimenting with architectures, evaluating what works, and iterating based on real results.
+
+Currently, I'm particularly interested in:
+
+Agentic AI & multi-agent systems
+LLM-powered applications
+AI workflow orchestration
+AI evaluation & reliability
+Full-stack AI products
+Software architecture & system design
+Security-aware AI systems
+🧠 Technical Focus
+AI Engineering
+Agentic AI & Multi-Agent Workflows
+LLM Applications
+AI Pipelines & Orchestration
+Retrieval-Augmented Generation (RAG)
+Prompt & Tool Orchestration
+AI Evaluation & Experimentation
+Structured AI Outputs
+Software Engineering
+Python
+JavaScript / TypeScript
+React / Next.js
+Node.js / Express
+REST APIs
+Backend Development
+Database Design
+Git & GitHub
+Data & Infrastructure
+SQL
+PostgreSQL
+MongoDB
+Supabase
+API Integration
+Cloud-based Applications
+🚀 Selected Work
+🤖 AI Systems & Agentic Workflows
+
+I build systems where AI components work together as part of a larger software architecture — rather than treating an LLM as an isolated feature.
+
+Areas I work with include:
+
+Task decomposition
+Specialized AI agents
+Tool calling
+Workflow orchestration
+Context management
+Retrieval & information processing
+Structured outputs
+Evaluation and iteration
+🔬 AI Research & Knowledge Systems
+
+I have worked on AI-powered research systems designed to help users discover, process, organize, and reason over complex information.
+
+This includes concepts such as:
+
+Research automation
+Literature analysis
+Semantic relationships
+Information retrieval
+AI-assisted workflows
+Structured research outputs
+🧩 Full-Stack AI Products
+
+I also build complete software products around AI capabilities — including:
+
+Frontend interfaces
+Backend services
+APIs
+Databases
+Authentication
+AI integrations
+Deployment
+
+My goal is not only to make an AI model produce an output, but to build the software system around it.
+
+📌 Featured Projects
+
+Some of my work focuses on AI research, intelligent workflows, and full-stack product development.
+
+👉 Explore the pinned repositories below for selected projects, implementations, and experiments.
+
+🛠️ Engineering Approach
+
+I care about more than making a prototype work.
+
+When building AI systems, I think about:
+
+Problem → Architecture → Implementation → Evaluation → Iteration
+
+I pay particular attention to:
+
+Clear system boundaries
+Modular architecture
+Reliable data flow
+Failure handling
+Reproducibility
+Evaluation
+Security considerations
+Maintainability
+
+I'm especially interested in understanding why a system works, where it fails, and how to improve it.
+
+📈 Building in Public
+
+I document parts of my engineering journey and share lessons from building AI systems, experimenting with architectures, and turning ideas into working software.
+
+I believe that proof of work is often more valuable than simply listing technologies.
+
+🌍 Let's Connect
+
+I'm interested in conversations around:
+
+AI Engineering
+Agentic AI
+Software Engineering
+AI Systems Architecture
+R&D
+Technical Product Development
+Interesting engineering problems
+
+<p> <a href="https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/"> LinkedIn </a> </p>
+
+<p> 📧 layan.michael1@gmail.com </p>
+
+<p align="center"> <i>Building systems, testing ideas, and learning through implementation.</i> </p>
