@@ -155,6 +155,24 @@ My work sits at the intersection of AI engineering, software architecture, and f
 
 I enjoy turning ambiguous problems into working systems, experimenting with architectures, evaluating what works, and iterating based on real results.
 
+<h4>💡 What I Bring</h4>
+
+I combine **software engineering fundamentals with hands-on AI systems development**.
+
+Rather than focusing only on models or frameworks, I enjoy working across the full system — understanding the problem, designing the architecture, implementing the software, integrating AI capabilities, and evaluating the result.
+
+I'm particularly motivated by engineering problems that require:
+
+* Breaking complex problems into smaller, well-defined components
+* Designing reliable AI workflows and system architectures
+* Connecting AI capabilities with real software products
+* Experimenting, measuring results, and iterating
+* Learning quickly and going deep into unfamiliar technical areas
+
+I'm still early in my career, but I approach projects with a **builder's mindset: learn → implement → test → improve**.
+
+My GitHub is a record of that process — the systems I build, the technical problems I explore, and the lessons I learn along the way.
+
 Currently, I'm particularly interested in:
 
 Agentic AI & multi-agent systems
