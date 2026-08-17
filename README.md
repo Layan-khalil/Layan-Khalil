@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi I'm Layan Khalil👋 </h1>
-<p align="center">AI Product Builder & Software Engineer</p>
+<p align="center"> Software Engineer</p>
 <p align="center">
   <!--<a href="https://www.frontendmentor.io/profile/Layan-khalil"><img src="https://img.shields.io/badge/Frontend Mentor-%0A66C2style=flat&logo=frontendmentor&logoColor=white"></a>-->
     <a href="https://www.linkedin.com/in/layan-khalil-ibrahim-25431329b/"><img src="https://img.shields.io/badge/Linkedin-%230177b5??style=flat&logo=linkedin&logoColor=Blue"></a>
@@ -147,7 +147,7 @@ https://www.upwork.com/freelancers/~011eb24bcb789555cb <br>
 
 If you’re working on something meaningful — I’d love to connect
 -->
-<h2>👩‍💻 About Me</h2>h2>
+<h2>👩‍💻 About Me</h2>
 
 I'm a software engineer focused on building AI-powered systems and intelligent software products.
 
